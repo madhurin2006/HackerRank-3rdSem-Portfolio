@@ -1,13 +1,10 @@
-# HackerRank-3rdSem-Portfolio
-HackerRank Algorithmic Problem-Solving Portfolio – 3rd Semester
-
 # HackerRank 3rd Semester Portfolio
 
 This repository contains my HackerRank algorithmic problem-solving solutions completed as part of my 3rd Semester B.Tech Computer Science and Engineering coursework.
 
 ## HackerRank Profile
 
-My HackerRank Profile: https://www.hackerrank.com/profile/madhuri_n2006
+[My HackerRank Profile](https://www.hackerrank.com/profile/madhuri_n2006)
 
 ## Problems Solved
 
@@ -40,18 +37,15 @@ HackerRank-3rdSem-Portfolio/
 │   ├── README.md
 │   └── solution.cpp
 │
-└── 05-Sparse-Arrays/
+├── 05-Sparse-Arrays/
+│   ├── README.md
+│   └── solution.cpp
+│
+└── screenshots/
     ├── README.md
-    └── solution.cpp
-
-Skills Practiced:
-C++ programming
-Arrays and vectors
-Strings
-Loops and conditional statements
-Hash maps
-Algorithmic problem solving
-Time and space complexity analysis
-
-Learning Outcome:
-Through these problems, I practiced implementing algorithms in C++, analyzing their efficiency, and maintaining my solutions using GitHub as part of my programming portfolio.
+    ├── Screenshot 2026-09-23 100952.png
+    ├── Screenshot 2026-09-23 101123.png
+    ├── Screenshot 2026-09-23 101329.png
+    ├── Screenshot 2026-09-23 101420.png
+    ├── Screenshot 2026-09-23 101507.png
+    └── Screenshot 2026-09-23 101631.png
